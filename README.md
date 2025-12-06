@@ -54,7 +54,7 @@ Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, prot
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/isocpp/logos@master/cpp_logo.pngs"
+    src="https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png"
 />
 <img 
     align="left" 
