@@ -10,13 +10,6 @@ Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, prot
             src="https://custom-icon-badges.demolab.com/github/stars/eoboykk?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/eoboykk">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://camo.githubusercontent.com/3bbe511b6ad9de8bf77bb741f073c14dbb4c6e49815a11339221827d7507a156/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e4076322e31372e302f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667"
-        />
-    </a>
 </p>
 
 ---
