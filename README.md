@@ -1,4 +1,4 @@
-#👋 Oi! Eu sou Ramon Machado💢
+👋 Oi! Eu sou Ramon Machado💢
 Sou um estudante de Redes de Computadores, sempre aprendendo com a tecnologia e focado no desenvolvimento Full Stack.
 
 Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, protocolos de rede e segurança, permitindo-me entender como as aplicações se comunicam e operam de ponta a ponta.
