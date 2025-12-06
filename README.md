@@ -3,7 +3,7 @@ Sou um estudante de Redes de Computadores, sempre aprendendo com a tecnologia e 
 
 Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, protocolos de rede e segurança, permitindo-me entender como as aplicações se comunicam e operam de ponta a ponta.
 <p>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/eoboykk?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
