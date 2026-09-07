@@ -50,11 +50,19 @@ Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, prot
     />
 <img 
     align="left" 
-    alt="C++" 
-    title="C++"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png"
+    src="[https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png](https://img.icons8.com/color/1200/c-programming.jpg)"
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/3840px-Python-logo-notext.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)"
 />
 <img 
     align="left" 
