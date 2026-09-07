@@ -54,7 +54,7 @@ Minha jornada acadêmica me proporciona uma base sólida em infraestrutura, prot
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[[https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png](https://img.icons8.com/color/1200/c-programming.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeyd9gIuMRKcWP10Ufuu710glJOud3X9juUSJzV2spw&s=10)"
+    src="[[[https://cdn.jsdelivr.net/gh/Benio101/cpp-logo@master/cpp_logo.png](https://img.icons8.com/color/1200/c-programming.jpg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqeyd9gIuMRKcWP10Ufuu710glJOud3X9juUSJzV2spw&s=10)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzTPPbttZIjsuRTyxEBBdPP2FH5FJoohuwQTCoHoc7g&s=10)"
 />
 <img 
     align="left" 
